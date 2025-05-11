@@ -22,15 +22,15 @@ Some of the results are:
 
 1. There is a _positive relationship_ between coach and firstclass prices. The higher the coach price, the higher the firstclass price.
 
-[coach and firstclass price](coach_and_firstclass_price.png)
+![coach and firstclass price](coach_and_firstclass_price.png)
 
 2. Flights with WiFi are significantly more expensive.
 
-[inflight features](inflight_features.png)
+![inflight features](inflight_features.png)
 
 3. On average, weekend tickets are pricey than weekday tickets.
 
-[Flight weekends](coach_and_firstclass_price_weekend.png)
+![Flight weekends](coach_and_firstclass_price_weekend.png)
 
 ## Used Technologies
 
